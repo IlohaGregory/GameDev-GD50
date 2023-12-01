@@ -2,9 +2,6 @@
     GD50
     Match-3 Remake
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
-
     -- Dependencies --
 
     A file to organize all of the global dependencies for our project, as
