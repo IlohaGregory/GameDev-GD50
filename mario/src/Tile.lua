@@ -1,10 +1,4 @@
---[[
-    GD50
-    -- Super Mario Bros. Remake --
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
-]]
 
 Tile = Class{}
 
