@@ -2,9 +2,6 @@
     GD50
     Super Mario Bros. Remake
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
-
     A classic platformer in the style of Super Mario Bros., using a free
     art pack. Super Mario Bros. was instrumental in the resurgence of video
     games in the mid-80s, following the infamous crash shortly after the
